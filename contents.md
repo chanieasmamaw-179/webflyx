@@ -8,8 +8,7 @@
 | * ac4eb1a B: add titles
 | * dc0b90f A:contents.md
 | * 411ed2f A:udate contsntes
-| * 459988f A:contents.md update
-* 85e9f20 J: Update classics.csv
+| * 459988f A:contents.md u* 85e9f20 J: Update classics.csv
 * 23ae59f C: add quotes
 * 431fcc0 B: add titles
 * bd0fabb A:contents.md

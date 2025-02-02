@@ -2,8 +2,7 @@
  git log --oneline --graph --decorate --all
 
 *   effbe03 (HEAD -> main, origin/main, origin/HEAD) D:
-|\  
-| * 32faacd D:
+|\  | * 32faacd D:
 | * 373c9b2 C: add quotes
 | * ac4eb1a B: add titles
 | * dc0b90f A:contents.md
